@@ -1,2 +1,2 @@
 # TibcoCode
-includes sample BW projects
+includes BW Rest WebService project.
